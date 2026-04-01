@@ -2,3 +2,16 @@ uv init
 uv venv
 source .venv/bin/activate
 uv add -r requirements.txt
+uv add ipykernel
+
+created files by me:
+instructions.txt
+requirements.txt
+
+and remaining files were created by uv commands itself.
+
+created a "src" or "source" folder by me.
+    The components build inside the RAG pipline will be there inside this src folder.
+    make this src act as a package, for that created __init__.py file
+    
+
