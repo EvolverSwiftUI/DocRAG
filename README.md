@@ -132,9 +132,3 @@ The system uses the following key configurations:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Built following best practices from Krish Naik Academy
-- Inspired by modern RAG architectures
-- Uses open-source libraries from the LangChain ecosystem
